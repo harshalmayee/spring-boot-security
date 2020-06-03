@@ -1,8 +1,8 @@
 server:
   port: 8081
 
-spring:
-  security:
-    user:
-      name: foo
-      password: foo
+#spring:
+#  security:
+#    user:
+#      name: foo
+#      password: foo
